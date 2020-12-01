@@ -1,4 +1,4 @@
-package com.github.simplesteph.kafka.tutotial1;
+package com.github.simplesteph.kafka.tutorial1;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
